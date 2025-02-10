@@ -3,3 +3,4 @@
 
 # 依赖包目录
 /node_modules/
+*storybook.log
