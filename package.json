@@ -1,5 +1,5 @@
 {
-  "name": "react-floating-window-plugin",
+  "name": "tdd-template",
   "version": "0.0.2",
   "description": "0.01:页面右侧悬浮窗;0.02:点击悬浮窗按钮在根目录中生成一个空的json文件",
   "main": "index.js",
