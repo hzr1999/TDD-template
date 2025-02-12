@@ -12,6 +12,11 @@ module.exports = {
     },
     globalObject: 'this',
   },
+  externals: {
+    // 这些依赖将不会被打包进插件，而是在宿主项目中寻找
+    react: 'react',
+    'react-dom': 'react-dom'
+  },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx'],
   },
